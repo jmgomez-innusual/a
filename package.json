@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "amiga-10": "file:../amiga-10",
-    "b": "file:../b"
+    "amiga-10": "github:jmgomez-innusual/amiga10",
+    "b": "github:jmgomez-innusual/b"
   }
 }
